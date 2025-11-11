@@ -2,6 +2,10 @@
 
 ---
 
+![VibeMatcher Banner](https://github.com/thevedantt/VibeMatcher-Nexora-AI/blob/main/vibematcher.png)
+
+---
+
 ## 📍 **Project Overview**
 
 **Vibe Matcher** is an AI-driven fashion recommendation prototype that interprets user *mood* or *“vibe”* queries and matches them to the most relevant fashion products.  
@@ -79,3 +83,7 @@ This makes recommendations more **context-aware, user-friendly, and realistic** 
 
 **Vibe Matcher** demonstrates how even a compact AI system can combine **semantic reasoning, contextual understanding, and fusion-based scoring** to produce meaningful, human-like fashion recommendations.  
 It encapsulates the **creative essence of AI** — turning words like *“cozy autumn vibes”* into smart, emotional, and personalized product matches.  
+
+---
+
+**Repository:** [VibeMatcher-Nexora-AI](https://github.com/thevedantt/VibeMatcher-Nexora-AI)
