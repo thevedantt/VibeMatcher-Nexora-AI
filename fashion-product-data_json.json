@@ -1,0 +1,254 @@
+{
+  "products": [
+    {
+      "product_id": "P001",
+      "name": "Boho Sunset Dress",
+      "description": "Flowy maxi dress in earthy sunset tones with delicate embroidery. Perfect for festival season, beach walks, and channeling free-spirited bohemian energy.",
+      "price": 89.99,
+      "category": "dresses",
+      "vibe_tags": ["boho", "festival", "free-spirited", "earthy", "romantic"],
+      "color_palette": ["terracotta", "sand", "coral"],
+      "season": "summer"
+    },
+    {
+      "product_id": "P002",
+      "name": "Urban Edge Leather Jacket",
+      "description": "Bold black leather moto jacket with silver hardware. Edgy urban streetwear essential for those who command attention with confident, rebellious style.",
+      "price": 249.99,
+      "category": "outerwear",
+      "vibe_tags": ["edgy", "urban", "streetwear", "bold", "rebellious"],
+      "color_palette": ["black", "silver"],
+      "season": "all-season"
+    },
+    {
+      "product_id": "P003",
+      "name": "Cozy Knit Oversized Sweater",
+      "description": "Ultra-soft chunky knit sweater in warm cream. Oversized comfort meets hygge vibes - perfect for cozy autumn afternoons with hot cocoa and good books.",
+      "price": 65.99,
+      "category": "tops",
+      "vibe_tags": ["cozy", "comfort", "autumn", "hygge", "warm"],
+      "color_palette": ["cream", "ivory", "beige"],
+      "season": "fall"
+    },
+    {
+      "product_id": "P004",
+      "name": "Minimalist Linen Blazer",
+      "description": "Clean-lined natural linen blazer in oatmeal. Effortless sophistication for the modern minimalist who values timeless elegance and sustainable fabrics.",
+      "price": 145.00,
+      "category": "outerwear",
+      "vibe_tags": ["minimalist", "elegant", "timeless", "sophisticated", "clean"],
+      "color_palette": ["oatmeal", "natural", "stone"],
+      "season": "spring"
+    },
+    {
+      "product_id": "P005",
+      "name": "Festival Fringe Top",
+      "description": "Bohemian crop top with cascading fringe details and geometric patterns. Festival-ready piece that brings playful, carefree vibes to any summer adventure.",
+      "price": 42.99,
+      "category": "tops",
+      "vibe_tags": ["boho", "festival", "playful", "summer", "carefree"],
+      "color_palette": ["turquoise", "gold", "white"],
+      "season": "summer"
+    },
+    {
+      "product_id": "P006",
+      "name": "Sleek Athleisure Set",
+      "description": "High-performance joggers and sports bra set in sleek black. Technical athleisure that transitions seamlessly from intense workouts to trendy streetwear.",
+      "price": 98.00,
+      "category": "activewear",
+      "vibe_tags": ["athletic", "sleek", "modern", "energetic", "urban"],
+      "color_palette": ["black", "charcoal"],
+      "season": "all-season"
+    },
+    {
+      "product_id": "P007",
+      "name": "Vintage Denim Mom Jeans",
+      "description": "Classic high-waisted mom jeans in authentic vintage wash. Retro 90s nostalgia meets contemporary cool - perfect for creating effortlessly stylish casual looks.",
+      "price": 79.99,
+      "category": "bottoms",
+      "vibe_tags": ["vintage", "retro", "casual", "90s", "cool"],
+      "color_palette": ["denim", "indigo", "faded blue"],
+      "season": "all-season"
+    },
+    {
+      "product_id": "P008",
+      "name": "Elegant Silk Midi Dress",
+      "description": "Luxurious champagne silk dress with elegant draping. Sophisticated evening wear that exudes timeless grace and refined femininity for special occasions.",
+      "price": 189.99,
+      "category": "dresses",
+      "vibe_tags": ["elegant", "luxurious", "sophisticated", "evening", "feminine"],
+      "color_palette": ["champagne", "gold", "cream"],
+      "season": "all-season"
+    },
+    {
+      "product_id": "P009",
+      "name": "Grunge Plaid Flannel",
+      "description": "Oversized flannel shirt in moody plaid patterns. Authentic grunge aesthetic with laid-back attitude - perfect for those who embrace alternative, non-conformist style.",
+      "price": 54.99,
+      "category": "tops",
+      "vibe_tags": ["grunge", "alternative", "casual", "moody", "rebellious"],
+      "color_palette": ["burgundy", "navy", "forest green"],
+      "season": "fall"
+    },
+    {
+      "product_id": "P010",
+      "name": "Luxe Cashmere Turtleneck",
+      "description": "Premium cashmere turtleneck in rich burgundy. Investment piece combining cloud-like comfort with understated luxury and classic European elegance.",
+      "price": 295.00,
+      "category": "tops",
+      "vibe_tags": ["luxury", "classic", "elegant", "comfort", "timeless"],
+      "color_palette": ["burgundy", "wine", "deep red"],
+      "season": "winter"
+    },
+    {
+      "product_id": "P011",
+      "name": "Sporty Track Pants",
+      "description": "Lightweight technical track pants with side stripes. Athletic performance meets street style - ideal for active lifestyles and urban exploration.",
+      "price": 68.00,
+      "category": "bottoms",
+      "vibe_tags": ["athletic", "sporty", "casual", "urban", "comfortable"],
+      "color_palette": ["navy", "white", "red"],
+      "season": "all-season"
+    },
+    {
+      "product_id": "P012",
+      "name": "Romantic Lace Blouse",
+      "description": "Delicate lace blouse with Victorian-inspired details and puff sleeves. Feminine and romantic piece perfect for date nights and special brunches.",
+      "price": 78.99,
+      "category": "tops",
+      "vibe_tags": ["romantic", "feminine", "vintage", "elegant", "delicate"],
+      "color_palette": ["white", "ivory", "cream"],
+      "season": "spring"
+    },
+    {
+      "product_id": "P013",
+      "name": "Edgy Ripped Skinny Jeans",
+      "description": "Distressed black skinny jeans with strategic rips and frayed edges. Rock-inspired denim for those who live on the edge and embrace bold fashion statements.",
+      "price": 92.00,
+      "category": "bottoms",
+      "vibe_tags": ["edgy", "rebellious", "rock", "bold", "streetwear"],
+      "color_palette": ["black", "charcoal"],
+      "season": "all-season"
+    },
+    {
+      "product_id": "P014",
+      "name": "Preppy Polo Shirt",
+      "description": "Classic cotton polo in crisp navy with contrast collar. Timeless preppy style that brings sophisticated casual elegance to country clubs and yacht parties.",
+      "price": 58.00,
+      "category": "tops",
+      "vibe_tags": ["preppy", "classic", "clean", "sophisticated", "casual"],
+      "color_palette": ["navy", "white", "red"],
+      "season": "summer"
+    },
+    {
+      "product_id": "P015",
+      "name": "Artsy Asymmetric Tunic",
+      "description": "Avant-garde tunic with asymmetric hemline and abstract print. Creative and artistic piece for those who view fashion as wearable art and self-expression.",
+      "price": 112.00,
+      "category": "tops",
+      "vibe_tags": ["artistic", "creative", "unique", "bold", "modern"],
+      "color_palette": ["black", "white", "mustard"],
+      "season": "fall"
+    },
+    {
+      "product_id": "P016",
+      "name": "Tropical Print Maxi Skirt",
+      "description": "Vibrant maxi skirt with bold tropical leaf print. Resort-ready piece that brings vacation energy and exotic flair to warm-weather wardrobes.",
+      "price": 71.99,
+      "category": "bottoms",
+      "vibe_tags": ["tropical", "vacation", "bold", "summer", "playful"],
+      "color_palette": ["green", "pink", "yellow"],
+      "season": "summer"
+    },
+    {
+      "product_id": "P017",
+      "name": "Power Suit Blazer",
+      "description": "Structured blazer in midnight black with sharp tailoring. Confidence-boosting power piece for boardrooms, presentations, and commanding professional presence.",
+      "price": 198.00,
+      "category": "outerwear",
+      "vibe_tags": ["professional", "powerful", "sophisticated", "corporate", "confident"],
+      "color_palette": ["black", "charcoal"],
+      "season": "all-season"
+    },
+    {
+      "product_id": "P018",
+      "name": "Cottagecore Floral Dress",
+      "description": "Sweet midi dress with ditsy floral print and puff sleeves. Whimsical cottagecore aesthetic perfect for garden parties and pastoral daydreams.",
+      "price": 84.99,
+      "category": "dresses",
+      "vibe_tags": ["cottagecore", "romantic", "feminine", "vintage", "whimsical"],
+      "color_palette": ["lavender", "green", "cream"],
+      "season": "spring"
+    },
+    {
+      "product_id": "P019",
+      "name": "Tech Wear Cargo Pants",
+      "description": "Futuristic cargo pants with multiple utility pockets and reflective details. Technical urban wear for those who blend function with cutting-edge street style.",
+      "price": 135.00,
+      "category": "bottoms",
+      "vibe_tags": ["techwear", "urban", "futuristic", "functional", "modern"],
+      "color_palette": ["black", "gray", "neon green"],
+      "season": "all-season"
+    },
+    {
+      "product_id": "P020",
+      "name": "Coastal Linen Shirt",
+      "description": "Relaxed linen button-down in ocean blue. Breezy coastal style perfect for seaside escapes, beach clubs, and channeling effortless Mediterranean elegance.",
+      "price": 76.00,
+      "category": "tops",
+      "vibe_tags": ["coastal", "relaxed", "breezy", "elegant", "vacation"],
+      "color_palette": ["blue", "white", "sand"],
+      "season": "summer"
+    },
+    {
+      "product_id": "P021",
+      "name": "Gothic Velvet Dress",
+      "description": "Deep burgundy velvet dress with Victorian neckline and dramatic sleeves. Dark romantic style for those drawn to gothic elegance and mysterious allure.",
+      "price": 156.00,
+      "category": "dresses",
+      "vibe_tags": ["gothic", "romantic", "dark", "elegant", "dramatic"],
+      "color_palette": ["burgundy", "black", "deep red"],
+      "season": "fall"
+    },
+    {
+      "product_id": "P022",
+      "name": "Minimalist Slip Dress",
+      "description": "Sleek satin slip dress in neutral taupe. Understated elegance and versatile minimalism - perfect foundation for layering or standalone sophistication.",
+      "price": 94.00,
+      "category": "dresses",
+      "vibe_tags": ["minimalist", "elegant", "versatile", "modern", "sophisticated"],
+      "color_palette": ["taupe", "nude", "beige"],
+      "season": "all-season"
+    },
+    {
+      "product_id": "P023",
+      "name": "Statement Puffer Jacket",
+      "description": "Oversized puffer in bold cobalt blue with metallic finish. Eye-catching outerwear that combines warmth with high-fashion street style impact.",
+      "price": 178.00,
+      "category": "outerwear",
+      "vibe_tags": ["bold", "modern", "streetwear", "statement", "urban"],
+      "color_palette": ["cobalt", "silver", "black"],
+      "season": "winter"
+    },
+    {
+      "product_id": "P024",
+      "name": "Bohemian Crochet Top",
+      "description": "Handcrafted crochet top with intricate patterns and open weave. Artisanal bohemian piece that celebrates craftsmanship and free-spirited festival fashion.",
+      "price": 62.00,
+      "category": "tops",
+      "vibe_tags": ["boho", "artisanal", "festival", "creative", "handmade"],
+      "color_palette": ["cream", "natural", "tan"],
+      "season": "summer"
+    },
+    {
+      "product_id": "P025",
+      "name": "Executive Wool Trousers",
+      "description": "Tailored wool trousers in charcoal gray with clean lines. Professional essentials that bring polished refinement to corporate environments and business meetings.",
+      "price": 128.00,
+      "category": "bottoms",
+      "vibe_tags": ["professional", "sophisticated", "classic", "polished", "corporate"],
+      "color_palette": ["charcoal", "gray", "black"],
+      "season": "all-season"
+    }
+  ]
+}
